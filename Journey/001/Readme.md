@@ -1,52 +1,42 @@
-**Add a cover photo like:**
-![placeholder image](https://via.placeholder.com/1200x600)
+# Modul 1 - AWS
 
-# New post title here
+## Chap 1
+What is Cloud Computing?
+Cloud computing is the on-demand delivery of computing power, databases, storage, applications, and other IT resources over the internet, with pay-as-you-go pricing.
 
-## Introduction
+Infrastructure as Software
+Cloud computing allows you to stop thinking of your infrastructure as hardware and, instead, treat it (and use it) as software.
 
-✍️ (Why) Explain in one or two sentences why you choose to do this project or cloud topic for your day's study.
+Traditional Computing Model
+1. Infrastructure as Hardware
+2. Hardware Solutions
+- Requires space, staff, physical security, planning, capital expenditure.
+- Involves long procurement cycles, forcing you to provision capacity based on peak maximums in theory.
 
-## Prerequisite
+Cloud Computing Model
+1. Infrastructure as Software
+2. Software Solutions
+- Flexible.
+- Can change more quickly and cost-effectively than hardware solutions.
+- Eliminates non-differentiated heavy lifting tasks.
 
-✍️ (What) Explain in one or two sentences the base knowledge a reader would need before describing the the details of the cloud service or topic.
+## Chap 2
+Advantages of Cloud Computing
+1. Massive economies of scale.
+2. Due to the aggregate usage of all customers, AWS can achieve higher economies of scale and pass cost savings on to customers.
+End guessing capacity.
+3. Increases speed and agility.
+4. Stop spending money on running and maintaining data centers.
+5. Expands worldwide in minutes.
 
-## Use Case
+#### What is a web service?
+Web services are all pieces of software that make themselves available over the internet and use standardized formats-such as Extensible Markup Language (XML) or JavaScript Object Notation (JSON)-for requests and responses from application programming interface (API) interactions.
 
-- 🖼️ (Show-Me) Create an graphic or diagram that illustrate the use-case of how this knowledge could be applied to real-world project
-- ✍️ (Show-Me) Explain in one or two sentences the use case
+#### What is AWS?
+AWS is a secure cloud platform that offers a broad set of global cloud-based products.
 
-## Cloud Research
+#### Three ways to interact with AWS
+1. AWS Management Console
+2. AWS CLI
+3. SDK
 
-- ✍️ Document your trial and errors. Share what you tried to learn and understand about the cloud topic or while completing micro-project.
-- 🖼️ Show as many screenshot as possible so others can experience in your cloud research.
-
-## Try yourself
-
-✍️ Add a mini tutorial to encourage the reader to get started learning something new about the cloud.
-
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 3 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-## ☁️ Cloud Outcome
-
-✍️ (Result) Describe your personal outcome, and lessons learned.
-
-## Next Steps
-
-✍️ Describe what you think you think you want to do next.
-
-## Social Proof
-
-✍️ Show that you shared your process on Twitter or LinkedIn
-
-[link](link)
